@@ -7,4 +7,9 @@ function(){
     $("btnId").hide();	
 };
 
+
+$(document).ready(function(){
+	
+});
+
 </script>
